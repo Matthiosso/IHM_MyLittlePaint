@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file alias="ben">icones/ben.png</file>
+        <file alias="back">icones/goBack.png</file>
+        <file alias="line">icones/line.png</file>
+        <file alias="new">icones/new.png</file>
+        <file alias="palette">icones/palette.png</file>
+        <file alias="penCur">icones/penCursor2.png</file>
+        <file alias="rectangle">icones/rectangle.png</file>
+        <file alias="test">icones/test.png</file>
+        <file alias="circle">icones/circle.png</file>
+        <file alias="fill">icones/fill.png</file>
+        <file alias="fillCur">icones/fillCursor.png</file>
+        <file alias="print">icones/print.png</file>
+        <file alias="save">icones/save.png</file>
+        <file alias="open">icones/open.png</file>
+        <file alias="finalChaton">icones/finalChaton.png</file>
+        <file alias="empty">icones/fillEmpty.png</file>
+        <file alias="full">icones/fillFull.png</file>
+        <file alias="pen">icones/pen.png</file>
+    </qresource>
+</RCC>
